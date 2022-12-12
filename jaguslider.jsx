@@ -1,0 +1,61 @@
+export const Jaguslider = [
+	{
+	  image:
+      'https://route66cars.in/storage/app/uploads/public/636/8de/072/6368de072bfba637232966.jpeg'
+		
+	},
+	{
+	  image:
+		'https://route66cars.in/storage/app/uploads/public/636/8de/097/6368de097a089536340018.jpeg'
+	},
+	{
+	  image:
+        'https://route66cars.in/storage/app/uploads/public/636/8de/1d8/6368de1d8f052316224959.jpeg'
+	},
+	{
+		image:
+		'https://route66cars.in/storage/app/uploads/public/636/8de/1dc/6368de1dc78d6260123909.jpeg'
+	},
+	{
+		image:
+		'https://route66cars.in/storage/app/uploads/public/636/8de/1f2/6368de1f2bc84193588643.jpeg'
+	},
+	{
+		image:
+		'https://route66cars.in/storage/app/uploads/public/636/8de/1fc/6368de1fc0579753777154.jpeg'
+	},
+	{
+		image:
+        'https://route66cars.in/storage/app/uploads/public/636/8de/213/6368de2137ce3413694432.jpeg'
+	},
+	{
+		image:
+        'https://route66cars.in/storage/app/uploads/public/636/8de/230/6368de23061ca125956608.jpeg'
+	},
+    {
+        image:
+        'https://route66cars.in/storage/app/uploads/public/636/8de/24c/6368de24ca918046228407.jpeg'
+
+    },
+    {
+        image:
+        'https://route66cars.in/storage/app/uploads/public/636/8de/27d/6368de27d1ad7798808986.jpeg'
+    },
+    {
+        image:
+        'https://route66cars.in/storage/app/uploads/public/636/8de/27d/6368de27db7ed466525346.jpeg'
+    },
+    {
+        image:
+        'https://route66cars.in/storage/app/uploads/public/636/8de/2b0/6368de2b0c1ea143899176.jpeg'
+    },
+    {
+        image:
+        'https://route66cars.in/storage/app/uploads/public/636/8de/2be/6368de2be992b024171994.jpeg'
+    },
+    {
+        image:
+        'https://route66cars.in/storage/app/uploads/public/636/8de/2da/6368de2daa275915657732.jpeg'
+    }
+
+];

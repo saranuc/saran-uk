@@ -1,0 +1,34 @@
+export const Bmwslider = [
+	{
+	  image:
+		'https://route66cars.in/storage/app/uploads/public/637/dbb/0a8/637dbb0a8527c450249807.jpeg'
+	},
+	{
+	  image:
+		'https://route66cars.in/storage/app/uploads/public/637/dbb/119/637dbb1199f8c905351660.jpeg'
+	},
+	{
+	  image:
+	  'https://route66cars.in/storage/app/uploads/public/637/dbb/135/637dbb135d78f757993554.jpeg'
+	},
+	{
+		image:
+		'https://route66cars.in/storage/app/uploads/public/637/dbb/124/637dbb1241ef9175903782.jpeg'
+	},
+	{
+		image:
+		'https://route66cars.in/storage/app/uploads/public/637/dbb/133/637dbb1335107390069793.jpeg'
+	},
+	{
+		image:
+		'https://route66cars.in/storage/app/uploads/public/637/dbb/13b/637dbb13bdbc4737200370.jpeg'
+	},
+	{
+		image:
+		'https://route66cars.in/storage/app/uploads/public/637/dbb/13e/637dbb13e790f847877465.jpeg'
+	},
+	{
+		image:
+		'https://route66cars.in/storage/app/uploads/public/637/dbb/12a/637dbb12a20ba108822943.jpeg'
+	}
+];

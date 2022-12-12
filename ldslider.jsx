@@ -1,0 +1,31 @@
+export const Ldslider = [
+	{
+	  image:
+      'https://route66cars.in/storage/app/uploads/public/630/472/53c/63047253cddce027893093.jpeg'
+	},
+	{
+        image:
+        'https://route66cars.in/storage/app/uploads/public/630/472/5a2/6304725a2942b894802590.jpeg'
+	},
+	{
+	  image:
+        'https://route66cars.in/storage/app/uploads/public/630/472/5be/6304725be532a961673787.jpeg'
+	},
+	{
+		image:
+         'https://route66cars.in/storage/app/uploads/public/630/472/5cb/6304725cbe045044402068.jpeg'
+	},
+	{
+		image:
+		'https://route66cars.in/storage/app/uploads/public/630/472/5d4/6304725d426aa196051795.jpeg'
+	},
+	{
+		image:
+        'https://route66cars.in/storage/app/uploads/public/630/472/5ed/6304725ed87ea838045031.jpeg'
+	},
+    {
+        image:
+        'https://img1.icarcdn.com/09456/prev-desktop_all-new-g20-bmw-3-series-launched-in-malaysia-priced-from-rm-328800-65490_cover_2019_bmw_330i_launch_cover.jpg'
+    }
+	
+];
